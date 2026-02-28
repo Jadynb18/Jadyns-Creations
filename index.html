@@ -1,46 +1,18 @@
+<!DOCTYPE html>
+<<html>
+<body>
 
-<!doctype html>
-<html>
+<h1>Enter your name for more info attribute</h1>
 
-<head>
 
-    <title>Forms Example</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin-top: 20px;
-        }
 
-        form {
-            margin-top: 20px;
+<form action="/action_page.php">
+  <label for="fname">First name and last:</label><br>
+  <input type="text" id="fname" name="fname" value="Jadyn brown" readonly><br>
+  <label for="lname">email:</label><br>
+  <input type="text" id="lname" name="lname" value="123456@gmail.com"><br><br>
+  <input type="submit" value="Submit">
+</form>
 
-        }
-
-        label {
-            display: block;
-            margin-bottom: 8px;
-        }
-
-        input[type="text"] {
-            width: 200px;
-            padding: 8px;
-            margin-bottom: 10px;
-        }
-
-        input [type="submit"] {
-            padding: 8px 16px;
-        }
-
-        #submitBTn {
-            background-color: lightslategrey;
-            color: white border none;
-            cursor: pointer;
-        }
-
-        #submitBtn:hover {
-            background-color: darkslategrey;
-        }
-
-        <style><link rel="stylesheet" href='styles.css'></head><body><h1>The input value attribute</h1><p>The value attribute specifies an initial value for an input field:</p><form action="/action_page.php"><label for="fname">First name:</label><br><input type="text" id="fname" name="fname" value="John"><br><label for="lname">Last name:</label><br><input type="text" id="lname" name="lname" value="Doe"><br><br><input type="submit" value="Submit">id="submitBtn"></form></body></html>
+</body>
+</html>
