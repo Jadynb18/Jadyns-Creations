@@ -12,11 +12,11 @@ Junior Web Developer
 Studio Onboarding & GitHub Workspace Setup
 
 ## Live Site
-GITHUB PAGES URL
+[GITHUB PAGES URL](https://jadynb18.github.io/Jadyns-Creations/)
 
 ## Week 1 Requirements
 - this first week i updated the index for this read me and i entered the new contents into the index.html
-- Replace `YOUR NAME` in `index.html` and this README.
+- Replace `Jadyn Brown` in `index.html` and this README.
 - Change the Studio Status in `index.html` to `Ready for Client Work`.
 - Test the site locally before and after editing.
 - Commit and push your work to your public GitHub repository.
