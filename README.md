@@ -15,7 +15,7 @@ Studio Onboarding & GitHub Workspace Setup
 GITHUB PAGES URL
 
 ## Week 1 Requirements
-- this first week i updated the index for this read me 
+- this first week i updated the index for this read me and i entered the new contents into the index.html
 - Replace `YOUR NAME` in `index.html` and this README.
 - Change the Studio Status in `index.html` to `Ready for Client Work`.
 - Test the site locally before and after editing.
