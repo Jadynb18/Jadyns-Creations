@@ -25,7 +25,13 @@ Do not simply redesign the site from scratch. Refactor it according to the requi
 - Meaningful image alternative text
 - Required site information
 
-## Your Goal
+## status
+Updated fonts to be more modernized
+changed the site.css and index coding to make it more stacked and readable.
+so for week 3 i left it to be more organized so its not as clustered.
+
+
 Make the code easier for another developer to understand, maintain, and extend.
 
 Refer to the Canvas assignment for all required technical work, GitHub workflow, and submission directions.
+
