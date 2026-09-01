@@ -12,21 +12,6 @@ body {
 }
 <section class="project-grid">
 
-    <article>
-        <h3>Southtown PlantCo.</h3>
-        <p>A planting business for your home.</p>
-    </article>
-
-    <article>
-        <h3>Event Website</h3>
-        <p>A promotional website for a community event.</p>
-    </article>
-
-    <article>
-        <h3>Portfolio Site</h3>
-        <p>different plants.</p>
-    </article>
-
 </section>
 .project-grid {
     display: grid;
