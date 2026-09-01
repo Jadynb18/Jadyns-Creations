@@ -33,16 +33,6 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
 }
-body{
-   display: flex;
-}
-.box{
-   height: 200px;
-   width: 150px;
-   background-color: #556B2F;
-   font-size 40pt;
-}
-
 
 
 
