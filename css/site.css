@@ -118,9 +118,9 @@ td {
 
 /* duplicate link rules from later update */
 a:link {
-  color: #88b795;
+  color:#000000;
 }
 
 a:visited {
-  color: #6C4E32;
+  color: #000000;
 }
