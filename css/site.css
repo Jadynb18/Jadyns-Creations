@@ -2,20 +2,33 @@
    Last updated: 08/17/2000
 */
 
-body {
+body { 
   margin-top: 18px;
   margin-bottom: 18px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 2;
-  background-color: "#E8E1C9"
-  color: #333333
+ background-color: #ffffdb;
+color: #333333;
 }
-<section class="project-grid">
-</section>
+
+.page-shell {
+  width: 720px;
+  margin: 0 auto;
+}
+
+
+.site-nav {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  background-color: #315C3D;
+  text-align: center;
+}
+
+
 .project-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1.5rem;
 }
 
 
@@ -42,6 +55,20 @@ h2 {
 
 a {
   color: #285B39;
+}
+
+.site-nav {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  background-color: #315C3D;
+  text-align: center;
+}
+
+.site-nav a {
+  padding: 0.5rem 0;
+  color: #fff;
+  font-size: 0.6875rem;
+  text-decoration: none;
 }
 
 a:hover {
@@ -96,11 +123,4 @@ a:link {
 
 a:visited {
   color: #6C4E32;
-}
-
-a:active {
-  color: #993300;
-}
-a:active {
-  color: #993300;
 }
