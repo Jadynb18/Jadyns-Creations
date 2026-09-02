@@ -60,7 +60,7 @@ a {
 .site-nav {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  background-color: #88b795;
+  background-color: #fdfded;
   text-align: center;
 }
 
